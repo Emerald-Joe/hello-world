@@ -1,3 +1,8 @@
-# hello-world
-# alx-pre_course
-# 0x0.1-git
+# emerald-joe
+echo "# Emerald-Joe" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Emerald-Joe/Emerald-Joe.git
+git push -u origin main
